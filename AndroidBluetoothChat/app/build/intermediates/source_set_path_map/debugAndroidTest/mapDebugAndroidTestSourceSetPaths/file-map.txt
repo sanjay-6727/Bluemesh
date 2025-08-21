@@ -1,0 +1,4 @@
+com.sanja.bluetoothchat.test.app-androidTest-0 C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\build\generated\res\resValues\androidTest\debug
+com.sanja.bluetoothchat.test.app-mergeDebugAndroidTestResources-1 C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.sanja.bluetoothchat.test.app-mergeDebugAndroidTestResources-2 C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.sanja.bluetoothchat.test.app-debugAndroidTest-3 C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

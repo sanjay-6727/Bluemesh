@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sanja\.gradle\caches\8.12\transforms\81c331008daea00dd8d6e037f5c7924f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sanja\.gradle\caches\8.12\transforms\a822a2a4d838b082dae82f8afe5465e5\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sanja\.gradle\caches\8.12\transforms\e340751f69d8f5b4485f488e60db53c7\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\sanja\.gradle\caches\8.12\transforms\ce5ec7173b6bb0f35f1c0473fae47b4a\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\33a07a26d1b1814a00e0c961382c6773\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\20c9305c867f32c7743669162f2cc108\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\3b4a64f697c36836b48bf96112b2e372\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\2b87b2f1503486f5e3c0975f6f237cb4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\43098debe70819a65822b0f3a89c8ea6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\5d2254a3e7f571055f899b9bf549793a\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\c5e844a4f58b73e8c745029aafc5d8df\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\2746a1ad1adf769bf47f296853ef475d\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\ce29ed3bd41a006178bf2d1d1dda7804\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\1b6bbd460aa5d48f9a39dce8c9367003\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\77486232755341b85bc5b36e0726bf7e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\4b06d67bb404ff5d2364c283beff50d7\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\b26385fe5422e89feba877ea6f7bf4f2\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\da4c020fe31b24af26cfc17377ae2ccb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\1e8380872679af02acc8d9f20add59cd\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\590a2af294db7a2b35528cc51ab38c2e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d84714bc8eeee34cae74bc154b499703\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\55c880faaa831ed05c708a2127a0ad4e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\f65e8315ae37af64397a4b870d6e34be\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\c3fec4cfb76dc801c115739aa1d1830c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\sanja\.gradle\caches\8.12\transforms\47f2a093ff2f6f888610337deacd31a9\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:4:5-94
+	android:maxSdkVersion
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:4:66-92
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:5:5-100
+	android:maxSdkVersion
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:5:72-98
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:6:5-119
+	android:usesPermissionFlags
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:6:71-117
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:6:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:8:5-105
+	android:maxSdkVersion
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:8:77-103
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:8:22-76
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:9:5-86
+	android:required
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:9:61-84
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:9:19-60
+application
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:10:5-25:19
+INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:10:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\da4c020fe31b24af26cfc17377ae2ccb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\da4c020fe31b24af26cfc17377ae2ccb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\590a2af294db7a2b35528cc51ab38c2e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\590a2af294db7a2b35528cc51ab38c2e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:16:9-67
+activity#com.sanja.bluetoothchat.MainActivity
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:exported
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sanja\.gradle\caches\8.12\transforms\81c331008daea00dd8d6e037f5c7924f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sanja\.gradle\caches\8.12\transforms\81c331008daea00dd8d6e037f5c7924f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sanja\.gradle\caches\8.12\transforms\a822a2a4d838b082dae82f8afe5465e5\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sanja\.gradle\caches\8.12\transforms\a822a2a4d838b082dae82f8afe5465e5\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sanja\.gradle\caches\8.12\transforms\e340751f69d8f5b4485f488e60db53c7\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sanja\.gradle\caches\8.12\transforms\e340751f69d8f5b4485f488e60db53c7\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\sanja\.gradle\caches\8.12\transforms\ce5ec7173b6bb0f35f1c0473fae47b4a\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\sanja\.gradle\caches\8.12\transforms\ce5ec7173b6bb0f35f1c0473fae47b4a\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\33a07a26d1b1814a00e0c961382c6773\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\33a07a26d1b1814a00e0c961382c6773\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\20c9305c867f32c7743669162f2cc108\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\20c9305c867f32c7743669162f2cc108\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\3b4a64f697c36836b48bf96112b2e372\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\3b4a64f697c36836b48bf96112b2e372\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\2b87b2f1503486f5e3c0975f6f237cb4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\2b87b2f1503486f5e3c0975f6f237cb4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\43098debe70819a65822b0f3a89c8ea6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\43098debe70819a65822b0f3a89c8ea6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\5d2254a3e7f571055f899b9bf549793a\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\5d2254a3e7f571055f899b9bf549793a\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\c5e844a4f58b73e8c745029aafc5d8df\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\c5e844a4f58b73e8c745029aafc5d8df\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\2746a1ad1adf769bf47f296853ef475d\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\2746a1ad1adf769bf47f296853ef475d\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\ce29ed3bd41a006178bf2d1d1dda7804\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\ce29ed3bd41a006178bf2d1d1dda7804\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\1b6bbd460aa5d48f9a39dce8c9367003\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\1b6bbd460aa5d48f9a39dce8c9367003\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\77486232755341b85bc5b36e0726bf7e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\77486232755341b85bc5b36e0726bf7e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\4b06d67bb404ff5d2364c283beff50d7\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\4b06d67bb404ff5d2364c283beff50d7\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\b26385fe5422e89feba877ea6f7bf4f2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\b26385fe5422e89feba877ea6f7bf4f2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\da4c020fe31b24af26cfc17377ae2ccb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\da4c020fe31b24af26cfc17377ae2ccb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\1e8380872679af02acc8d9f20add59cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\1e8380872679af02acc8d9f20add59cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\590a2af294db7a2b35528cc51ab38c2e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\590a2af294db7a2b35528cc51ab38c2e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d84714bc8eeee34cae74bc154b499703\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d84714bc8eeee34cae74bc154b499703\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\55c880faaa831ed05c708a2127a0ad4e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\sanja\.gradle\caches\8.12\transforms\55c880faaa831ed05c708a2127a0ad4e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\f65e8315ae37af64397a4b870d6e34be\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\sanja\.gradle\caches\8.12\transforms\f65e8315ae37af64397a4b870d6e34be\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\c3fec4cfb76dc801c115739aa1d1830c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sanja\.gradle\caches\8.12\transforms\c3fec4cfb76dc801c115739aa1d1830c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\sanja\.gradle\caches\8.12\transforms\47f2a093ff2f6f888610337deacd31a9\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\sanja\.gradle\caches\8.12\transforms\47f2a093ff2f6f888610337deacd31a9\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sanja\Blueetoothchat\AndroidBluetoothChat\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\da4c020fe31b24af26cfc17377ae2ccb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanja\.gradle\caches\8.12\transforms\da4c020fe31b24af26cfc17377ae2ccb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sanja\.gradle\caches\8.12\transforms\d69c2bf40683233dc4892294ad17d961\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.sanja.bluetoothchat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.sanja.bluetoothchat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sanja\.gradle\caches\8.12\transforms\7fbc65f914ce92233939d82f0dee665c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanja\.gradle\caches\8.12\transforms\cdd3bf9d032133a9168fa33b755cb561\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

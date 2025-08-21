@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ImprovedBluetoothChatApp",
+            "request": "launch",
+            "mainClass": "ImprovedBluetoothChatApp",
+            "projectName": "Blueetoothchat",
+            "classPaths": [
+                "bin",
+                "lib/bluecove-2.1.0.jar",
+                "lib/bluecove-gpl-2.1.0.jar"
+            ]
+        }
+    ]
+}

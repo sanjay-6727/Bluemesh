@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sanja.bluetoothchat.app-mergeDebugResources-18:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sanja\\.gradle\\caches\\8.12\\transforms\\a822a2a4d838b082dae82f8afe5465e5\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
